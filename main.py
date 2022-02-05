@@ -39,9 +39,9 @@ def menu():
                     )
                 else:
                     print(
-                        "Your password will be ",
+                        "Your password will be",
                         int(character_limit),
-                        " characters long"
+                        "characters long"
                     )
                     limit = int(character_limit)
                     break
