@@ -1,10 +1,6 @@
-from ctypes.wintypes import CHAR
-from http.client import SEE_OTHER
-from re import S
 import secrets
 import string
-from tkinter import SEPARATOR
-from unicodedata import numeric
+
 # This program generate a secure and random password
 SEPARATOR = (
         "####################################################################"
